@@ -64,7 +64,9 @@ table {
 
 
 /* Reviews */
-
+#reviews {
+    display: inline;
+}
 
 /* About-us */
 
